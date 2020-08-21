@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746569628388",
+    "firebase_url": "https://sail-c0d24.firebaseio.com",
+    "project_id": "sail-c0d24",
+    "storage_bucket": "sail-c0d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746569628388:android:16f784b11c951f11370af1",
+        "android_client_info": {
+          "package_name": "com.example.sail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746569628388-vf6i12ippk7uhf2fipe84jda744bd6bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sail",
+            "certificate_hash": "2f92c1fd7e6fee2a850608dd4ac3bce01ca6ad80"
+          }
+        },
+        {
+          "client_id": "746569628388-cfik4bmb7gk8drst8dqoevijpcagd98v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVEhIRZpdrjRAj4kJrxYZsNkiQj8ejPqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746569628388-cfik4bmb7gk8drst8dqoevijpcagd98v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
